@@ -21,3 +21,6 @@ arasında UART haberleşmesi kurulmuş ve bir grafik arayüz (GUI)
 ## Not
 - UART baud rate, veri bitleri ve stop bitleri kod içerisinde
   açıklamalı şekilde belirtilmiştir.
+
+## Bağlantı Şeması
+![ADC Bağlantı Şeması](Baglanti_Semasi_ADC.png)
