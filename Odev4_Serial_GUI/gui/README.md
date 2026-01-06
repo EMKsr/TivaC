@@ -1,2 +1,7 @@
-# GUI Kaynak Kodları
-Bu klasör SharpDevelop ile geliştirilen GUI uygulamasını içerir.
+# GUI Uygulaması
+
+Bu klasörde SharpDevelop kullanılarak geliştirilen
+seri haberleşme arayüzü yer almaktadır.
+
+## Ekran Görüntüsü
+![GUI Ekran Arayüzü](Ekran_Arayuz.png)
