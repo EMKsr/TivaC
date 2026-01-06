@@ -1,6 +1,6 @@
 # Tiva TM4C123GH6PM Mikrodenetleyici Ödevleri
 
-Bu repo, Dönem içi Mikroişlemci dersi kapsamında hazırlanan ödevleri içermektedir.
+Bu repo, Dönem içi İleri Mikroişlemciler dersi kapsamında hazırlanan ödevleri içermektedir.
 
 ## Ödevler
 - Odev1_LCD_Driver
