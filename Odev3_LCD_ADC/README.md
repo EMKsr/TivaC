@@ -15,3 +15,6 @@ gösterilmiştir.
 ## Açıklamalar
 - ADC örnekleme süresi ve referans ayarları kod içerisinde açıklanmıştır.
 - Gerilim değişimi LCD ekran üzerinde gerçek zamanlı izlenebilmektedir.
+
+## Bağlantı Şeması
+![ADC Bağlantı Şeması](Baglanti_Semasi_ADC.png)
