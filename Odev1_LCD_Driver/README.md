@@ -9,3 +9,6 @@ Bu ödevde Tiva TM4C123GH6PM mikrodenetleyicisi kullanılarak
 - Devre şeması
 
 Not: Tüm fonksiyonlar açıklamalı yorum satırları içermektedir.
+
+## Bağlantı Şeması
+![LCD Bağlantı Şeması](Baglanti_Semasi_LCD.png)
