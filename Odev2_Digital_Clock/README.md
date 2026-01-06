@@ -15,3 +15,6 @@ kullanılarak dijital saat uygulaması geliştirilmiştir.
 - Timer interrupt kullanımı sayesinde saat doğruluğu artırılmıştır.
 - LCD yenileme hızı gözle fark edilmeyecek seviyededir.
 - Kod okunabilirliği için gerekli yorum satırları eklenmiştir.
+
+## Bağlantı Şeması
+![LCD Bağlantı Şeması](Baglanti_Semasi_LCD.png)
